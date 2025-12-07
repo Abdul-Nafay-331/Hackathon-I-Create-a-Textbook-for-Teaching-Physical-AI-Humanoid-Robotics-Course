@@ -1,0 +1,94 @@
+{
+  "/physical-ai-book/docs-465": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/physical-ai-book/docs-a30": {
+    "__comp": "a7bd4aaa",
+    "__props": "e932793b"
+  },
+  "/physical-ai-book/docs-2b7": {
+    "__comp": "a94703ab"
+  },
+  "/physical-ai-book/docs/chapter1_digital_to_embodied-430": {
+    "__comp": "17896441",
+    "content": "0620c96c"
+  },
+  "/physical-ai-book/docs/chapter1_exercises-3be": {
+    "__comp": "17896441",
+    "content": "bf015e66"
+  },
+  "/physical-ai-book/docs/chapter2_exercises-1cf": {
+    "__comp": "17896441",
+    "content": "433718f5"
+  },
+  "/physical-ai-book/docs/chapter2_ros2_fundamentals-7a1": {
+    "__comp": "17896441",
+    "content": "f2b4f6fe"
+  },
+  "/physical-ai-book/docs/chapter3_exercises-861": {
+    "__comp": "17896441",
+    "content": "e861f3d1"
+  },
+  "/physical-ai-book/docs/chapter3_rclpy_ai_agents-c4f": {
+    "__comp": "17896441",
+    "content": "3a10234b"
+  },
+  "/physical-ai-book/docs/chapter4_exercises-daa": {
+    "__comp": "17896441",
+    "content": "0c3961dc"
+  },
+  "/physical-ai-book/docs/chapter4_urdf_xacro_mastery-0cb": {
+    "__comp": "17896441",
+    "content": "4dd23cc1"
+  },
+  "/physical-ai-book/docs/chapter5_complete_ros2_package-6d9": {
+    "__comp": "17896441",
+    "content": "f545ea8a"
+  },
+  "/physical-ai-book/docs/chapter5_exercises-e1d": {
+    "__comp": "17896441",
+    "content": "1555c340"
+  },
+  "/physical-ai-book/docs/intro-f2d": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/physical-ai-book/docs/module1_intro-860": {
+    "__comp": "17896441",
+    "content": "b703c44e"
+  },
+  "/physical-ai-book/docs/module1/chapter1_digital_to_embodied-2b0": {
+    "__comp": "17896441",
+    "content": "34d2c73c"
+  },
+  "/physical-ai-book/docs/module1/chapter2_ros2_fundamentals-f09": {
+    "__comp": "17896441",
+    "content": "a201702f"
+  },
+  "/physical-ai-book/docs/module1/chapter3_rclpy_ai_agents-0c5": {
+    "__comp": "17896441",
+    "content": "0bb1fc8b"
+  },
+  "/physical-ai-book/docs/module1/chapter4_urdf_xacro_mastery-a17": {
+    "__comp": "17896441",
+    "content": "8cea46e2"
+  },
+  "/physical-ai-book/docs/module1/chapter5_complete_ros2_package-032": {
+    "__comp": "17896441",
+    "content": "c1b77855"
+  },
+  "/physical-ai-book/docs/module1/intro-9f6": {
+    "__comp": "17896441",
+    "content": "dd920d85"
+  },
+  "/physical-ai-book/-003": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}
